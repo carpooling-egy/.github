@@ -12,14 +12,14 @@ This system was developed as part of the **Computer and Systems Engineering grad
 - [Mariam Gerges](url)  
 - [Marwan Essam](url)  
 - [Mohamed Anwar](url)  
-- [Hussain Mansour](url)  
-- [Hussein Khaled](url)  
+- [Hussein Mansour](https://www.linkedin.com/in/hussein-mohamed-5800b4221/)  
+- [Hussein Khaled](https://www.linkedin.com/in/husseinkhaled733/)  
 
 ---
 
 ## 👩‍🏫 Supervisor
 
-- **[Dr. Samia Hafez](url)** – Associate Professor, Computer and Systems Engineering Department, Alexandria University
+- **Dr. Samia Hafez** – Associate Professor, Computer and Systems Engineering Department, Alexandria University
 
 ---
 
