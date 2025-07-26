@@ -8,7 +8,7 @@ This system was developed as part of the **Computer and Systems Engineering grad
 
 ## 👥 Team Members
 
-- [Mariam Elsamni](url)  
+- [Mariam Elsamni](https://www.linkedin.com/in/mariam-elsamni-592184252/)  
 - [Mariam Gerges](url)  
 - [Marwan Essam](url)  
 - [Mohamed Anwar](url)  
@@ -107,5 +107,5 @@ Below are screenshots of the user interface developed using Flutter:
 ---
 
 ## 🎬 Demo
-
+[Watch the Demo Video](https://drive.google.com/file/d/1bmU6MVYZqPHr-9wY2w992_5zYdxZUHMF/view?usp=sharing)
 
