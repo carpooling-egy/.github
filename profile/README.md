@@ -9,9 +9,9 @@ This system was developed as part of the **Computer and Systems Engineering grad
 ## 👥 Team Members
 
 - [Mariam Elsamni](https://www.linkedin.com/in/mariam-elsamni-592184252/)  
-- [Mariam Gerges](url)  
-- [Marwan Essam](url)  
-- [Mohamed Anwar](url)  
+- [Mariam Gerges](https://www.linkedin.com/in/mariam-gerges-b151b7220/)  
+- [Marwan Essam](https://www.linkedin.com/in/marwan-essam/)  
+- [Mohamed Anwar](https://www.linkedin.com/in/mohamed-anwar121/)  
 - [Hussein Mansour](https://www.linkedin.com/in/hussein-mohamed-5800b4221/)  
 - [Hussein Khaled](https://www.linkedin.com/in/husseinkhaled733/)  
 
